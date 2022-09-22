@@ -3,10 +3,10 @@ var name = "Reid Poole"
 var email = "poole.reid@gmail.com"
 var startingAge = 36
 var tutionPaid = false
-var name = "john doe"
-var email = "youknowit@gmail.com"
-var startingAge = 10
-var tuitionPaid = true
+name = "john doe"
+email = "youknowit@gmail.com"
+startingAge = 10
+tuitionPaid = true
 console.log(name)
 console.log(email)
 console.log(startingAge)
